@@ -4,7 +4,8 @@ gsxuqun/gsxuqun is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-荣耀play5t pro安装google。
+
+**一、荣耀play5t pro安装google。**
 
 先将应用商店设置区域为英国，再安装 Gspace，在 Gspace 中下载安装google软件
 
